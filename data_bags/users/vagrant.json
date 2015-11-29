@@ -1,0 +1,6 @@
+{
+"id": "vagrant",
+"password": "vagrant",
+"htpasswd": "{SHA}6r77mWNCBRfdamIqffwm828ER6E=",
+"groups": ["sysadmin"]
+}
